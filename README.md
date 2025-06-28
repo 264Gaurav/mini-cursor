@@ -1,9 +1,5 @@
 # mini-cursor
 
-Mini Cursor application using ai agent - Google Gemini LLM and few tools used.
-
-# mini-cursor
-
 Mini Cursor application using AI agent - Google Gemini LLM and a few tools.
 
 ## Overview
